@@ -65,10 +65,6 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
    *Weizhe Yuan, Pengfei Liu* [[paper]](https://arxiv.org/abs/2206.11147) 2022.6
 
-1. **Improving Task Generalization via Unified Schema Prompt**
-   
-   *Wanjun Zhong, Yifan Gao, Ning Ding, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan* [[paper]](https://arxiv.org/abs/2208.03229) 2022.8
-
 1. **Scaling Instruction-Finetuned Language Models**
     
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei* [[paper]](https://arxiv.org/abs/2210.11416) 2022.10

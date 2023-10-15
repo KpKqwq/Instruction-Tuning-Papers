@@ -41,6 +41,8 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **Prompt Consistency for Zero-Shot Task Generalization**
    
    *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig* [[paper]](https://arxiv.org/abs/2205.00049) 2022.5
+1. **Improving In-Context Few-Shot Learning via Self-Supervised Training**
+   * Mingda Chen * [[paper]](https://arxiv.org/pdf/2205.01703.pdf) 2022.5
 
 1. **Instruction Induction: From Few Examples to Natural Language Task Descriptions**
 
